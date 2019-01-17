@@ -1,5 +1,5 @@
 FROM alpine:3.8
-MAINTAINER FAN VINGA<fanalcest@gmail.com>
+MAINTAINER FAN VINGA<leeze@gmail.com>
 
 ENV NODE_ID=0                     \
     SPEEDTEST=6                   \
